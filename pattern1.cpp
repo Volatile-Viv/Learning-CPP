@@ -13,7 +13,7 @@ int main()
         int j = 1;
         while (j <= i)
         {
-            cout << j;
+            cout << j << " ";
             j = j + 1;
         }
         cout << endl;

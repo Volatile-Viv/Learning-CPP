@@ -1,2 +1,2 @@
 # Learning C++
-This repo has some basic C++ programs.
+This repo contains some basic C++ programs.

@@ -5,8 +5,11 @@ int main()
 {
     int a, b, n;
 
-    cout << "Enter two numbers- ";
-    cin >> a >> b;
+    cout << "Enter first number --> ";
+    cin >> a;
+
+    cout << "Enter second number --> ";
+    cin >> b;
 
     n = (a > b) ? a : b;
 

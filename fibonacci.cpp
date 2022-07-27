@@ -9,7 +9,7 @@ int main()
     for (i = 2; i < n; i++)
     {
         c = a + b;
-        cout << c << " ";
+        cout << c << " " << endl;
         a = b;
         b = c;
     }

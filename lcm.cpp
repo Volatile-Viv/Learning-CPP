@@ -17,7 +17,7 @@ int main()
     {
         if (n % a == 0 && n % b == 0)
         {
-            cout << "LCM is " << n;
+            cout << "LCM is " << n << endl;
             break;
         }
         else
